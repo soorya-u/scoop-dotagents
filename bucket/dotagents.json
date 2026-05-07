@@ -5,7 +5,7 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/soorya-u/dotagents/releases/download/v0.1.0/dotagents-windows-x64.exe",
+      "url": "https://github.com/soorya-u/dotagents/releases/download/v0.0.0/dotagents-windows-x64.exe",
       "hash": "PLACEHOLDER_SHA256_WINDOWS_X64",
       "bin": "dotagents.exe"
     }
